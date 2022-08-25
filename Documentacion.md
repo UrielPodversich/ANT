@@ -67,3 +67,32 @@ git pull origin main (El comando git pull se emplea para extraer y descargar con
 
 ![img14.png](Imagenes/img14.jpg)
 
+Lo que hice a continuacion fue clonar el repositorio en otro directorio.
+![img_15.png](Imagenes/img_15.jpg)
+
+Luego en el clon modifique el mail para intentar que exista un conflicto a la hora de mergear.
+
+Original:
+![img_16.png](Imagenes/img_16.jpg)
+
+Clone:
+![img_17.png](Imagenes/img_17.jpg)
+
+Después, agrego el archivo modificado con "git add ." y creo el commit correspondiente.
+![img_18.png](Imagenes/img_18.jpg)
+
+Intento pusher pero termina saliendo un error. 
+![img_19.png](Imagenes/img_19.jpg)
+
+Hago un pull e intento mergear, sale un error que dice que se encuentra un conflicto y por eso no puede ser mergeado.
+![img_20.png](Imagenes/img_20.jpg)
+
+Resuelvo el codigo que contiene el conflicto. Luego agrego todos los archivos modificados y creo los commit correspondientes.
+![img_21.png](Imagenes/img_21.jpg)
+
+Cree un archivo que se llama Versiones.md en el cual contiene la explicacion de las versiones LOCAL, BASE, REMOTE.
+![img_22.png](Imagenes/img_22.jpg)
+
+Se pusheo todo lo realizado hasta ahora.
+
+
