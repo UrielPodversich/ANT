@@ -165,4 +165,5 @@ Adjunto imagen de los ejercicios resueltos en la pagina.
 Cree repositorio de la materia
 ![img_24.png](Imagenes/img_23.jpg)
 
-
+Se agregaron todos los archivos al repositorio
+![img_25.png](Imagenes/img_24.jpg)
