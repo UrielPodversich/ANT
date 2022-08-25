@@ -88,10 +88,10 @@ Hago un pull e intento mergear, sale un error que dice que se encuentra un confl
 ![img_20.png](Imagenes/img_20.jpg)
 
 Resuelvo el codigo que contiene el conflicto. Luego agrego todos los archivos modificados y creo los commit correspondientes.
-![Img_21.png](Imagenes/Img_21.jpg)
+![img_21.png](Imagenes/img_21.jpg)
 
 Cree un archivo que se llama Versiones.md en el cual contiene la explicacion de las versiones LOCAL, BASE, REMOTE.
-![Img_22.png](Imagenes/Img_22.jpg)
+![img_22.png](Imagenes/img_22.jpg)
 
 Se pusheo todo lo realizado hasta ahora.
 
