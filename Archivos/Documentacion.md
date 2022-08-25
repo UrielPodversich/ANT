@@ -162,3 +162,7 @@ Adjunto imagen de los ejercicios resueltos en la pagina.
 - Crear un repositorio para la materia en github. Por ejemplo ANT (Diferente al de este trabajo práctico) <br>
 - Subir archivo(s) .md con los resultados, imágenes y/o videos de este trabajo práctico a ese repositorio. Puede ser en una subcarpeta trabajo-practico-01, con su propia rama, como mas le guste, pero en el README.md deberán explicar como encuentro el resultado.
 
+Cree repositorio de la materia
+![img_24.png](Imagenes/img_23.jpg)
+
+
